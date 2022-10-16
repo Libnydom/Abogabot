@@ -15,3 +15,4 @@ Para la empresa, se debe contar con un Dash que brinde visibilidad de los ingres
 
 
 Buyer persona
+[![Buyer-Persona-Abogabot.png](https://i.postimg.cc/P59jS7gJ/Buyer-Persona-Abogabot.png)](https://postimg.cc/BjTk6mQf)
