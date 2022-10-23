@@ -48,4 +48,28 @@ El boceto se ha realizado con Notes, para de ahí plasmarlo en Figma.
 
 [![Pago.png](https://i.postimg.cc/ZR9N2HxV/Pago.png)](https://postimg.cc/Kk24gnVM)
 
+<h2> Wireframe UI </h2>
+
+<b> Inicio </b>
+
+[![Inicio.png](https://i.postimg.cc/85c4dZgv/Inicio.png)](https://postimg.cc/phNKRYTV)
+
+<b> Login </b>
+
+[![Login.png](https://i.postimg.cc/xT2shyKw/Login.png)](https://postimg.cc/MX9bjB35)
+
+<b> Formulario </b>
+
+[![Formulario.png](https://i.postimg.cc/qB3Jj0Lm/Formulario.png)](https://postimg.cc/rzq2wB7W)
+
+<b> Datos </b>
+
+[![Dash.png](https://i.postimg.cc/kXq0KdhR/Dash.png)](https://postimg.cc/0rXX1hv9)
+
+<b> Pago </b>
+
+[![Pago.png](https://i.postimg.cc/nr4tZFSp/Pago.png)](https://postimg.cc/Zv5QxShM)
+
+
+
 
